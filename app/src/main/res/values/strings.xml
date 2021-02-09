@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Work1</string>
+    <string name="button_name">Start</string>
 </resources>
